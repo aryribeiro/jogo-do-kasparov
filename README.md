@@ -1,3 +1,5 @@
+Obs.: caso o app esteja no modo "sleeping" (dormindo) ao entrar, basta clicar no botão que estará disponível e aguardar, para ativar o mesmo. 
+<img width="765" height="787" alt="print" src="https://github.com/user-attachments/assets/6528f1ad-f34b-48c0-95d9-4b194466158b" />
 # 🇷🇺 Jogo do Kasparov
 
 Um jogo da velha (Tic-Tac-Toe) interativo desenvolvido em Python com Streamlit, onde você enfrenta uma IA com diferentes níveis de dificuldade.
